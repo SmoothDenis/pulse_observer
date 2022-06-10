@@ -2,10 +2,7 @@
 
 ## Description
 
-<img src="screenshot.jpg"/>
-
 Compute a person's pulse via webcam in real-time by tracking tiny changes in face coloration due to blood flow. For best results, try to minimize movement.
-
 Uses Python, OpenCV, NumPy, SciPy, and Dlib.
 
 ## Requirements
